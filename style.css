@@ -1,0 +1,9 @@
+.rowName {
+  border: 1px solid black;
+  display: block;
+}
+
+.rowName td {
+  border: 1px solid black;
+  display: inline-block;
+}
